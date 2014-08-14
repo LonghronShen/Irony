@@ -1,0 +1,8 @@
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\bin\Debug\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\bin\Debug\Irony.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\obj\Debug\010.Irony.2010.csprojResolveAssemblyReference.cache
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\obj\Debug\Irony.Microsoft.MathResources.resources
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\obj\Debug\Irony.Resources.resources
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\obj\Debug\010.Irony.2010.csproj.GenerateResource.Cache
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\obj\Debug\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony-master\Irony\obj\Debug\Irony.pdb

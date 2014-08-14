@@ -18,6 +18,10 @@ using System.Diagnostics;
 using System.Text;
 using System.Collections;
 
+#if PORTABLE
+using Microsoft.Scripting.Utils;
+#endif
+
 namespace Microsoft.Scripting.Math {
     /// <summary>
     /// Implementation of the complex number data type.
