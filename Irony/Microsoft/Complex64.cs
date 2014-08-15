@@ -18,7 +18,7 @@ using System.Diagnostics;
 using System.Text;
 using System.Collections;
 
-#if PORTABLE
+#if PORTABLE || SILVERLIGHT
 using Microsoft.Scripting.Utils;
 #endif
 

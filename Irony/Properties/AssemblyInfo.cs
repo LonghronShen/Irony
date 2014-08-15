@@ -25,7 +25,6 @@ using System.Security;
 [assembly: AssemblyConfiguration("")]
 #else
 [assembly: ComVisible(false)]
-[assembly: AssemblyConfiguration("")]
 #if SILVERLIGHT
 [assembly: Guid("B83C8EBA-E4E5-4761-9C38-F662F56D63D7")]
 [assembly: AssemblyTitle("Irony-SL")]

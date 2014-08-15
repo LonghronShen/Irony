@@ -17,7 +17,7 @@ using System.Text;
 //using Irony.Compiler;
 using Microsoft.Scripting.Math;
 
-#if PORTABLE
+#if PORTABLE || SILVERLIGHT
 using Microsoft.Scripting.Utils;
 #endif
 

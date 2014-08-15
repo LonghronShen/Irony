@@ -56,7 +56,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Bin\Debug</OutputPath>
-    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;SILVERLIGHT,FEATURE_CORE_DLR</DefineConstants>
     <NoStdLib>true</NoStdLib>
     <NoConfig>true</NoConfig>
     <ErrorReport>prompt</ErrorReport>
@@ -67,7 +67,7 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>Bin\Release</OutputPath>
-    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <DefineConstants>TRACE;SILVERLIGHT,FEATURE_CORE_DLR</DefineConstants>
     <NoStdLib>true</NoStdLib>
     <NoConfig>true</NoConfig>
     <ErrorReport>prompt</ErrorReport>
@@ -113,8 +113,16 @@
     <Compile Include="Interpreter\ScriptInterpreter.cs" />
     <Compile Include="Interpreter\StackFrame.cs" />
     <Compile Include="Interpreter\ValuesTable.cs" />
+    <Compile Include="Microsoft\ArgumentTypeException.cs" />
+    <Compile Include="Microsoft\Assert.cs" />
     <Compile Include="Microsoft\BigInteger.cs" />
     <Compile Include="Microsoft\Complex64.cs" />
+    <Compile Include="Microsoft\ContractUtils.cs" />
+    <Compile Include="Microsoft\ExceptionFactory.Generated.cs" />
+    <Compile Include="Microsoft\ExceptionUtils.cs" />
+    <Compile Include="Microsoft\InvalidImplementationException.cs" />
+    <Compile Include="Microsoft\MathUtils.cs" />
+    <Compile Include="Microsoft\StringUtils.cs" />
     <Compile Include="Parsing\Data\Construction\GrammarDataBuilder.cs" />
     <Compile Include="Parsing\Data\Construction\LanguageDataBuilder.cs" />
     <Compile Include="Parsing\Data\Construction\ParserDataBuilder.cs" />
@@ -128,6 +136,7 @@
     <Compile Include="Parsing\Diagnostics\ParserMessage.cs" />
     <Compile Include="Parsing\Diagnostics\ParserTrace.cs" />
     <Compile Include="Parsing\Diagnostics\ParseTreeExtensions.cs" />
+    <Compile Include="ProtableOnly\CollectionExtensions.cs" />
     <Compile Include="SilverlightOnly\HashSet.cs" />
     <Compile Include="Microsoft\MathResources.Designer.cs" />
     <Compile Include="SilverlightOnly\Stopwatch.cs" />
