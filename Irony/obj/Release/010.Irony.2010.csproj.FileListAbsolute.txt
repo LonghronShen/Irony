@@ -1,0 +1,10 @@
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\obj\Release\010.Irony.2010.csprojResolveAssemblyReference.cache
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\obj\Release\Irony.Resources.resources
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\obj\Release\010.Irony.2010.csproj.GenerateResource.Cache
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\bin\Release\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\bin\Release\Irony.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\bin\Release\Microsoft.Dynamic.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\bin\Release\Microsoft.Scripting.Debugging.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\bin\Release\Microsoft.Scripting.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\obj\Release\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony\obj\Release\Irony.pdb

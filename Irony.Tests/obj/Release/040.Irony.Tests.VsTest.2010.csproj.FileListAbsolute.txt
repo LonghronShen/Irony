@@ -1,0 +1,9 @@
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\bin\Release\Irony.Tests.VSTest.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\bin\Release\Irony.Tests.VSTest.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\bin\Release\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\bin\Release\Microsoft.Dynamic.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\bin\Release\Microsoft.Scripting.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\bin\Release\Irony.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\obj\Release\040.Irony.Tests.VsTest.2010.csprojResolveAssemblyReference.cache
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\obj\Release\Irony.Tests.VSTest.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Tests\obj\Release\Irony.Tests.VSTest.pdb

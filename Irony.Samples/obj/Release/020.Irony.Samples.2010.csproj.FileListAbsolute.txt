@@ -1,0 +1,9 @@
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\bin\Release\Irony.Samples.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\bin\Release\Irony.Samples.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\bin\Release\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\bin\Release\Microsoft.Dynamic.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\bin\Release\Microsoft.Scripting.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\bin\Release\Irony.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\obj\Release\020.Irony.Samples.2010.csprojResolveAssemblyReference.cache
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\obj\Release\Irony.Samples.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples\obj\Release\Irony.Samples.pdb

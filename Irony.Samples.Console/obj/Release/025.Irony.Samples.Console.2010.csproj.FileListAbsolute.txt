@@ -1,0 +1,12 @@
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.Samples.Console.exe.config
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.Samples.Console.exe
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.Samples.Console.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.Samples.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Microsoft.Dynamic.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Microsoft.Scripting.dll
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.Samples.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\bin\Release\Irony.pdb
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\obj\Release\025.Irony.Samples.Console.2010.csprojResolveAssemblyReference.cache
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\obj\Release\Irony.Samples.Console.exe
+C:\Users\qunqi_000\Documents\Programming\Irony\Irony.Samples.Console\obj\Release\Irony.Samples.Console.pdb
