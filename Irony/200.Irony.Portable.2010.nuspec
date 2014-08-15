@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
+    <id>Irony.Portable</id>
     <version>1.0.0</version>
     <authors>LonghronShen</authors>
     <owners>LonghronShen</owners>

@@ -176,6 +176,7 @@
     <Content Include="Parsing\Data\Construction\_about_parser_construction.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="200.Irony.Portable.2010.nuspec" />
     <None Include="app.config" />
     <None Include="irony.snk" />
     <None Include="packages.config" />

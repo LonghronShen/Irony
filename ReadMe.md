@@ -5,12 +5,17 @@ Prerequisites
   OS: Windows XP, Vista or Windows 7; 
   Visual Studio 2008, .NET Framework 3.5
   
+  For building Portable Class Library:
+  OS: Windows 8 or higher
+  Visual Studio 2013 with Xamarin
+
 Demo instructions
+-----------------
 To run Grammar Explorer
 * Open Irony_All.sln solution file in Visual Studio.
 * Right-click on the project "030.Irony.GrammarExplorer" and select "Set as StartUp project" from context menu.
 * Click Run button on toolbar (F5). Grammar Explorer Window opens.
-* !!!Important: if you are launching the Grammar Explorer for the first time after downloading Irony and 
+* **Important**: if you are launching the Grammar Explorer for the first time after downloading Irony and 
     if you see that Grammars combobox is not empty, then make sure you clear it: click the button 
     next to the combobox and select "Remove all"
 * If Grammars combobox on top is empty, click on the button next to it (or right-click the combobox) and select 
