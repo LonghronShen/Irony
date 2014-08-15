@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>LonghronShen</authors>
+    <owners>LonghronShen</owners>
+    <licenseUrl>https://github.com/LonghronShen/Irony/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/LonghronShen/Irony</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<summary>Irony is a development kit for implementing languages on .NET platform.</summary>
+    <description>Irony is a development kit for implementing languages on .NET platform. Unlike most existing yacc/lex-style solutions Irony does not employ any scanner or parser code generation from grammar specifications written in a specialized meta-language. In Irony the target language grammar is coded directly in c# using operator overloading to express grammar constructs. Irony's scanner and parser modules use the grammar encoded as c# class to control the parsing process. See the expression grammar sample for an example of grammar definition in c# class, and using it in a working parser.</description>
+    <releaseNotes>Provide a Portable Class Library support.</releaseNotes>
+    <copyright>Copyright 2014 LonghronShen</copyright>
+    <tags>Irony Portable Class Library</tags>
+    <dependencies>
+      <dependency id="DynamicLanguageRuntime.Net40.Unofficial" version="2.6.1003.1" />
+	  <dependency id="Microsoft.Bcl.Async" version="1.0.168" />
+    </dependencies>
+  </metadata>
+</package>
