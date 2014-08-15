@@ -40,4 +40,8 @@ To compile this project you must have Silverlight 3 Tools installed:
 (http://www.microsoft.com/downloads/details.aspx?familyid=9442b0f2-7465-417a-88f3-5e7b5409e9dd&displaylang=en)
 Credit for Irony-SL adaptation goes to Kirill Osenkov
  
-  
+Using Portable Class Library
+----------------------------
+This project is under development and just for experimental.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2g6vl5o4b84fmoo1)](https://ci.appveyor.com/project/LonghronShen/irony)
